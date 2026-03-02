@@ -825,7 +825,7 @@
     "meaning": "Requires considerable effort. (Set 5)",
     "id": 92,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "気が進まない",
@@ -861,7 +861,7 @@
     "meaning": "Wait eagerly. (Set 5)",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "水に流す",
@@ -870,7 +870,7 @@
     "meaning": "Let bygones be bygones. (Set 5)",
     "id": 97,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "念には念を入れる",
@@ -888,7 +888,7 @@
     "meaning": "Leave cleanly without trouble. (Set 5)",
     "id": 99,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "手に入れる",
@@ -897,7 +897,7 @@
     "meaning": "Obtain something. (Set 5)",
     "id": 100,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "猫の手も借りたい",
@@ -941,7 +941,7 @@
     "english": "Tight-lipped",
     "meaning": "Can keep secrets. (Set 6)",
     "id": 105,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
