@@ -40,5 +40,11 @@
   "romaji": "Kaigi wa yotei yori hayaku owarimashita.",
   "english": "The meeting ended earlier than scheduled.",
   "jlpt": "N4"
-}
+  },
+  {
+    "japanese": "この漢字の読み方を教えてください。",
+    "romaji": "Kono kanji no yomikata o oshiete kudasai.",
+    "english": "Please tell me how to read this kanji.",
+    "jlpt": "N5"
+  }
 ]
